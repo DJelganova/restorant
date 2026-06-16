@@ -1,0 +1,16 @@
+.about {
+    background: #f8f8f8;
+}
+
+footer {
+    background: #ffdfe2;
+    color: rgb(37, 15, 15);
+    text-align: center;
+    padding: 50px 20px;
+}
+.btn{
+    background: #f4cec9;
+    transform: scale(1.05);
+    border: #f6aea4;
+    height: 10px;
+}
